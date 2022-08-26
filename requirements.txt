@@ -3,6 +3,9 @@ jupyter
 numpy
 pandas
 matplotlib
+seaborn
+plotly
+scikit-learn
 
 # Development tools
 black
